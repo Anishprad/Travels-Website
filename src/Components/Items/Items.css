@@ -1,0 +1,8 @@
+.image:hover {
+    transform: scale(1.1,1.1);
+    transition: 0.3s ease;
+    overflow: hidden;
+}
+.products{
+    overflow: hidden;
+}
